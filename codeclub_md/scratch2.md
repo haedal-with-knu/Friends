@@ -6,14 +6,14 @@
 
 #### 제작 과정 : 
 **characters1**  
-![사람](./scratch2_img/사람.JPG)
+![사람](./scratch2_img/사람.JPG)   
 ![사람결과1](./scratch2_img/사람1_result.JPG)   
- 깃발을 누르면 게임이 시작되고 사람 캐릭터가 등장한다.
+ 깃발을 누르면 게임이 시작되고 사람 캐릭터가 등장한다.   
 ![사람결과2](./scratch2_img/사람2_result.JPG)   
  멘트를 말한 후 병원으로 가는 화살표가 나온다.
 
 **Arrow1**   
-![화살표](./scratch2_img/화살표.JPG)   
+![화살표](./scratch2_img/화살표.JPG)      
  병원가기 신호를 받았을 때만 등장한다.   
 ![화살표결과](./scratch2_img/화살표_result.JPG)   
  화살표에 닿으면 병원으로 이동한다. (배경이 바뀌고 의사가 등장)
