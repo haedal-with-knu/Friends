@@ -1,7 +1,7 @@
 ![arduino_00](../img/arduino_00.jpg)
 
 <img src="../img/arduino_gif_0.gif" />
-![arduino_gif_1](../img/arduino_gif_1.gif)
+<img src="../img/arduino_gif_1.gif" />
 
 ![arduino_01](../img/arduino_01.jpg)
 ![arduino_02](../img/arduino_02.jpg)
