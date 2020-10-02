@@ -37,6 +37,8 @@
 
 ### 결과물 (영상의 경우 유튜브 링크 활용 가능)
 
-![http://img.youtube.com/vi/BkPmbe9nbYs/0.jpg](https://youtu.be/BkPmbe9nbYs)
+#### GRAB 함수
+[![GRAB](http://img.youtube.com/vi/BkPmbe9nbYs/0.jpg)](https://youtu.be/BkPmbe9nbYs) 
 
-[RELEASE](https://youtu.be/FusoAc_LwDA)
+#### RELEASE 함수
+[![RELEASE](http://img.youtube.com/vi/FusoAc_LwDA/0.jpg)](https://youtu.be/FusoAc_LwDA) 
